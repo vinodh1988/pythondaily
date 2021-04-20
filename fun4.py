@@ -13,3 +13,7 @@ def outer(a):
 print(outer(90))
         
     
+    #() - tuple
+    #[] - list
+    #{} - set
+    #{}  - dictionary
